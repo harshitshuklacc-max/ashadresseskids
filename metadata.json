@@ -1,0 +1,6 @@
+{
+  "name": "Asha Dresses NX — 3D Kids Couture & Clothing Store",
+  "description": "Official 3D online kids clothing store for Asha Dresses NX, near Hanuman Mandir, Civil Lines, Tilak Nagar, Bilaspur, Chhattisgarh 495001. Explore festive lehengas, sherwanis, party frocks, and breathable cotton wear in interactive 3D.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
